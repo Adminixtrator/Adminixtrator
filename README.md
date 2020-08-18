@@ -1,7 +1,10 @@
 # α∂мιηιχтяαтσя 👽
 
 ```shell
-Time is of essence and quality is paramount. Deep Learning is no child's play. Father we pray thee for more compute. Machine Learning on steroids. SageMaker is not for the Sage. Step aside, it's not always a lambda function. Roses are red, violets are blue, no matter the situation, always *git push*. It's called science, coupled with wisdom. How long will it take you to discover that we are all data? I discovered. You know why? because I have watched the *master piss* 👀
+Time is of essence and quality is paramount. Deep Learning is no child's play. Father we pray thee for more compute. 
+Machine Learning on steroids. SageMaker is not for the Sage. Step aside, it's not always a lambda function. 
+Roses are red, violets are blue, no matter the situation, always *git push*. It's called science, coupled with wisdom. 
+How long will it take you to discover that we are all data? I discovered. You know why? because I have watched the *master piss* 👀
 ```
 
 
