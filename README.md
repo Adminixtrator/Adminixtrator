@@ -1,6 +1,6 @@
 # α∂мιηιχтяαтσя 👽
 
-[![Status](https://img.shields.io/badge/Build-Passing-skirretgreen)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Emotions-Stable-blue)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Status-Single-orange)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/ML/DL-Solid-skirretgreen)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/AWS-Blossoming-violet)](https://github.com/Adminixtrator)[![Status](https://img.shields.io/badge/Money-OpenSource-red)](https://github.com/Adminixtrator)
+[![Status](https://img.shields.io/badge/Build-Passing-skirretgreen)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Emotions-Stable-blue)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Status-Single-orange)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/ML/DL-Solid-skirretgreen)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/AWS-Blossoming-violet)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Money-OpenSource-red)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Wisdom-Passing-skirretgreen)](https://github.com/Adminixtrator)
 
 <!--
 **Adminixtrator/Adminixtrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
