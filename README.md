@@ -7,7 +7,7 @@ Python is prettier with rust. Deep Learning is no child's play. Roses are red, v
 
 ------------------------------
 ### Sidebar:
-*To avoid conflicts due to diversity of opinions, from my own opinionated view - emphasis on **my**. Judging by the the pattern in which the text was constructed and the essence of it (from my own POV), I would love to let you know that I have nothing to say.* 🏳
+*To avoid conflicts due to diversity of opinions, from my own opinionated view - emphasis on **my**. Judging by the the pattern in which the text was constructed and the essence of it (from my own POV), I would love to let you know that I have nothing to say.* 🎙
 
 <!--
 **Adminixtrator/Adminixtrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
