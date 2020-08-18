@@ -1,6 +1,6 @@
 # α∂мιηιχтяαтσя 👽
 
-Status: [![Status](https://img.shields.io/badge/Build-Passing-skirretgreen)](https://github.com/Adminixtrator) 
+[![Status](https://img.shields.io/badge/Build-Passing-skirretgreen)](https://github.com/Adminixtrator) [![Status](https://img.shields.io/badge/Emotions-Stable-blue)](https://github.com/Adminixtrator) 
 
 <!--
 **Adminixtrator/Adminixtrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
