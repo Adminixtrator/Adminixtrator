@@ -5,6 +5,7 @@
 Python is prettier with rust. Deep Learning is no child's play. Roses are red, violets are blue, no matter the situation, always make sure you ```git push```. In correspondence, ```git pull yourLifeTogether```
 
 Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialIntelligence*** on ***#Flutter #AWS #Django #IoT*** using ***#Python #Tensorflow #Keras*** consistently 🤝
+
 ------------------------------
 ### Sidebar:
 *To avoid conflicts due to diversity of opinions, from my own opinionated view - emphasis on **my**. Judging by the the pattern in which the text was constructed and the essence of it (from my own POV), I would love to let you know that I have nothing to say.* 😍
