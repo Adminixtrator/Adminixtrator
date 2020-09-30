@@ -6,7 +6,7 @@ Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialI
 A motivated developer bringing top-notch abilities in competitor analysis, business intelligence development and technology trend assessment to promote company advancements and boost overall performance. Proactive and industrious in achieving targets by leveraging BI data and producing well-planned recommendations.
 
 ------------------------------
-### Top projects
+<!-- ### Top projects -->
 
 <!--
 **Adminixtrator/Adminixtrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
