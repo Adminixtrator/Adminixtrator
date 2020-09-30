@@ -2,7 +2,8 @@
 
 Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialIntelligence*** on ***#Flutter #AWS #Django #IoT*** using ***#Python #Tensorflow #Keras*** consistently 🤝
 
-### Professional summary
+## Professional summary
+------------------------------
 A motivated developer bringing top-notch abilities in competitor analysis, business intelligence development and technology trend assessment to promote company advancements and boost overall performance. Proactive and industrious in achieving targets by leveraging BI data and producing well-planned recommendations.
 
 ------------------------------
