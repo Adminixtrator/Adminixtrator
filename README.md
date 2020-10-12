@@ -4,7 +4,7 @@ Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialI
 
 ## Professional summary
 
-A machine learning engineer proficient in Python, C and C++. With experience in Tensorflow, Django, Flutter, Deep learning and Data science, utilizing efficient communication, leadership and network skills to promote company advancements and boost overall performance. I believe I would be a valuable asset to your esteemed organization.
+A Machine Learning Engineer proficient in Python, C and C++. With experience in Tensorflow, Django, Flutter, Deep learning and Data science, utilizing efficient communication, leadership and network skills to promote company advancements and boost overall performance. I believe I would be a valuable asset to your esteemed organization.
 
 ------------------------------
 <!-- ### Top projects -->
