@@ -4,7 +4,7 @@ Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialI
 
 ## Professional summary
 
-A motivated developer bringing top-notch abilities in competitor analysis, business intelligence development and technology trend assessment to promote company advancements and boost overall performance. Proactive and industrious in achieving targets by leveraging BI data and producing well-planned recommendations.
+A machine learning engineer proficient in Python, C and C++. With experience in Tensorflow, Django, Flutter, Deep learning and Data science, utilizing efficient communication, leadership and network skills to promote company advancements and boost overall performance. I believe I would be a valuable asset to your esteemed organization.
 
 ------------------------------
 <!-- ### Top projects -->
