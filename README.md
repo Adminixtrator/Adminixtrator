@@ -2,9 +2,7 @@
 
 Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialIntelligence*** on ***#Flutter #AWS #Django #IoT*** using ***#Python #Tensorflow #Keras*** consistently 🤝
 
-## Professional summary
-
-A Machine Learning Engineer proficient in Python, C and C++. With experience in Tensorflow, Django, Flutter, Deep learning and Data science, utilizing efficient communication, leadership and network skills to promote company advancements and boost overall performance. I believe I would be a valuable asset to your esteemed organization.
+ ![](https://komarev.com/ghpvc/?username=adminixtrator)
 
 ------------------------------
 <!-- ### Top projects -->
