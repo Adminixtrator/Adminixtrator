@@ -2,9 +2,10 @@
 
 Currently building solutions with ***#MachineLearning #DeepLearning #ArtificialIntelligence*** on ***#Flutter #AWS #Django #IoT*** using ***#Python #Tensorflow #Keras*** consistently 🤝
 
- ![](https://komarev.com/ghpvc/?username=adminixtrator)
 
-------------------------------
+
+-----------------------------
+ ![](https://komarev.com/ghpvc/?username=adminixtrator)
 <!-- ### Top projects -->
 
 <!--
