@@ -1,6 +1,8 @@
 # α∂мιηιχтяαтσя 
 
 ```python
+import boto3 as omg
+
 import tensorflow as tf
 import tensorflow_hub as hub
 from tensorflow import keras
