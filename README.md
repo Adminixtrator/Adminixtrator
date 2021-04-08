@@ -22,7 +22,6 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 **α∂мιη-χ** 💎
 
 <br />
-<br />
 
 ---------
 <a href="https://rust-lang.org" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" alt="drawing" width="25"/></a>
