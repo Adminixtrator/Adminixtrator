@@ -19,7 +19,7 @@
 
 *Your friendly neighborhood SWE,*
 <br />
-**α∂мιη-χ** 💎
+**α∂мιη-χ** 
 
 <br />
 
