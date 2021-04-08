@@ -1,7 +1,7 @@
 # α∂мιηιχтяαтσя 
 
 
-*Hard work pays off in the future, laziness pays off now.<br />
+- *Hard work pays off in the future, laziness pays off now.<br /> -
 I’m looking for a job where I am politely ignored and left to my own devices. With unlimited Internet access, doughnuts, and coffee.
 Yeah! I quit my job working for Nike. Just couldn’t do it anymore.
 But I love being a maze designer. I get completely lost in my work.
