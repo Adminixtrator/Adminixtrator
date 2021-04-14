@@ -19,14 +19,15 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 
 *Your friendly neighborhood SWE,*
 <br />
-**α∂мιη-χ** 
+<b style="background-color: #FF1493;">**α∂мιη-χ**</b>
 
 <br />
 
 ---------
-<a href="https://rust-lang.org" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" alt="drawing" width="25"/></a>
-<a href="https://aws.amazon.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="drawing" height="20"/></a>
-<a href="https://python.org" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="drawing" width="25"/></a>
-<a href="https://tensorflow.org" target="blank"><img src="https://res.cloudinary.com/adminixtrator/image/upload/v1580760937/1_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="drawing" width="25"/></a>
-<a href="https://dart.dev" target="blank"><img src="https://res.cloudinary.com/adminixtrator/image/upload/v1617884876/176-1766682_dart-programming-language-hd-png-download-removebg-preview.png" alt="drawing" width="25"/></a>
-<a href="https://github.com" target="blank"><img src="https://res.cloudinary.com/adminixtrator/image/upload/v1615506786/GitHub-Mark-120px-plus.png" alt="drawing" height="25"/></a>
+<a href="https://github.com/Adminixtrator/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adminixtrator&hide=html&show=cpp&title_color=FFA500&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Amamgbu/Amamgbu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adminixtrator&show_icons=true&line_height=27&count_private=true&title_color=FF1493&text_color=c9cacc&icon_color=FF1493&bg_color=1d1f21" alt="Adminixtrator's GitHub Stats" />
+</a>
