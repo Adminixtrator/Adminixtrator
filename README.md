@@ -21,8 +21,6 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 <br />
 **α∂мιη-χ**
 
-<br />
-
 ---------
 <a href="https://github.com/Adminixtrator/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adminixtrator&hide=html&show=cpp&title_color=FFA500&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
