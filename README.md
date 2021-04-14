@@ -19,7 +19,7 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 
 *Your friendly neighborhood SWE,*
 <br />
-<b style="background-color: #FF1493;">**α∂мιη-χ**</b>
+**α∂мιη-χ**
 
 <br />
 
