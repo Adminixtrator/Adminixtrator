@@ -21,11 +21,12 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 <br />
 **α∂мιη-χ**
 
+<!--
 ---------
 <a href="https://github.com/Adminixtrator/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adminixtrator&hide=html,sed,css,php&langs_count=8&title_color=FFA500&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/Amamgbu/Amamgbu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adminixtrator&show_icons=true&line_height=27&count_private=true&title_color=FF1493&text_color=c9cacc&icon_color=FF1493&bg_color=1d1f21" alt="Adminixtrator's GitHub Stats" />
 </a>
+-->
