@@ -1,4 +1,4 @@
-<!-- # α∂мιηιχтяαтσя 
+# α∂мιηιχтяαтσя 
 
 
 *Hard work pays off in the future, laziness pays off now.<br />
@@ -19,7 +19,7 @@ Sure! I drink brake fluid. But I can stop anytime!*<br />
 
 *Your friendly neighborhood SWE,*
 <br />
-**α∂мιη-χ** -->
+**α∂мιη-χ**
 
 <!--
 ---------
