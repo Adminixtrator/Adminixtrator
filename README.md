@@ -1,7 +1,9 @@
-# α∂мιηιχтяαтσя 
+<div class="alert alert-block alert-success">
+  <h1>α∂мιηιχтяαтσя</h1>
+</div>
 
-
-*Hard work pays off in the future, laziness pays off now.<br />
+<div class="alert alert-block alert-warning">
+Hard work pays off in the future, laziness pays off now.<br />
 I’m looking for a job where I am politely ignored and left to my own devices. With unlimited Internet access, doughnuts, and coffee.<br />
 Yeah! I quit my job working for Nike. Just couldn’t do it anymore.<br />
 I love being a maze designer. I get completely lost in my work.<br />
@@ -13,12 +15,14 @@ I became an archaeologist. Before long, my career was in ruins.<br />
 I’m willing to work longer hours at work. As long as they’re lunch hours.<br />
 I wanted to be a computer programmer, but I couldn’t hack it.<br />
 Now, I’ve gotten into astronomy, and my whole career is looking up.<br />
-Sure! I drink brake fluid. But I can stop anytime!*<br />
-
+Sure! I drink brake fluid. But I can stop anytime!<br />
+</div>
 <br />
-
-<h4><i>Your friendly neighborhood SWE,</i></h4>
-<h2>α∂мιη-χ</h2>
+<br />
+<div class="alert alert-block alert-warning">
+  <p><i>Your friendly neighborhood SWE,</i></p>
+  <h2 style="color: yellow;">α∂мιη-χ</h2>
+</div>
 
 <!--
 ---------
